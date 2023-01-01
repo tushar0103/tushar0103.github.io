@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    list-style-type: none;
+    margin: 20px 0px;
+    background: grey;
+}
+
+.navbar {
+    font-family: century;
+}
+
+body {
+    background: skyblue;
+}
+
+.image {
+    float: right;
+    width: 450px;
+    height: 300px;
+    margin-right: 50px;
+}
+
+.educate {
+    float: left;
+    margin
+}
